@@ -1,0 +1,96 @@
+MÔ TẢ BÀI TẬP NHÓM
+SMART HR DEMO
+Phạm vi: Trích xuất một phần từ Dự án lớn SmartHR
+Triển khai dưới dạng Web Application trong thời gian 10 tuần 
+Nguồn nhân lực: 5 sinh viên
+
+01. Thông tin dự án
+Tên dự án: SmartHR Demo.
+Mã dự án: BTL-HR-01
+Loại dự án: Bài tập nhóm.
+Sponsor: Giảng viên hướng dẫn.
+Project Manager: Trưởng nhóm sinh viên. 
+Thời gian: 10 tuần.
+02. Tổng quan & Bối cảnh
+Hiện trạng: Thông tin nhân sự còn được lưu trữ phân tán, một số quy trình như chấm công và sàng lọc hồ sơ vẫn thực hiện thủ công, tốn thời gian và nguồn lực.
+Vấn đề: Quy trình thủ công dễ phát sinh sai sót, dữ liệu thiếu liên kết và chưa được quản lý tập trung trên một nền tảng thống nhất.
+Sự cần thiết: Dự án nhằm số hóa các quy trình nhân sự cơ bản, nâng cao hiệu quả quản lý và tạo cơ hội để nhóm sinh viên vận dụng kiến thức quản lý dự án, từ lập kế hoạch, quản lý rủi ro đến phát triển phần mềm thực tế.
+03. Mục đích & Mục tiêu
+Mục đích: Xây dựng hệ thống quản lý nhân sự tập trung trên nền tảng Web, hỗ trợ tự động hóa các nghiệp vụ cơ bản và thử nghiệm tích hợp Trí tuệ nhân tạo.
+Mục tiêu: Hoàn thành và vận hành ổn định bản Demo trong 10 tuần, đáp ứng các luồng nghiệp vụ cốt lõi và hoàn thiện đầy đủ bộ tài liệu quản lý dự án.
+04. Phạm vi dự án
+Trong phạm vi:
+Tầng 1 – Bắt buộc: Đăng nhập và phân quyền, quản lý hồ sơ nhân viên, tuyển dụng cơ bản, chấm công và AI phân tích CV.
+Tầng 2 – Mở rộng: Tính lương, đánh giá hiệu suất, báo cáo và trợ lý AI; thực hiện khi còn thời gian.
+Tầng 3 – Thiết kế: Các phân hệ phức tạp như quản lý đào tạo, chỉ dừng ở mức thiết kế giao diện.
+Ngoài phạm vi: Không tích hợp máy chấm công thực tế, không xây dựng thuật toán tính lương phức tạp, không phát triển ứng dụng di động và không triển khai trên dịch vụ điện toán đám mây thương mại.
+Ranh giới dự án: Chỉ sử dụng dữ liệu giả lập hoặc dữ liệu tự sinh, không sử dụng dữ liệu cá nhân và dữ liệu nhân sự thực tế.
+05. Sản phẩm & Deliverables
+Sản phẩm cuối cùng: Bản Demo Web Application của hệ thống SmartHR, đáp ứng các luồng nghiệp vụ cốt lõi trong phạm vi dự án.
+Bộ tài liệu dự án: Báo cáo hoàn chỉnh dưới định dạng Word/PDF, bao gồm WBS (cấu trúc phân rã công việc), biểu đồ Gantt, ma trận RACI (phân công trách nhiệm) và danh mục rủi ro.
+Các kết quả bàn giao: Slide thuyết trình bảo vệ cuối kỳ, toàn bộ mã nguồn được lưu trữ trên GitHub và video Demo mô phỏng các kịch bản sử dụng để dự phòng trong quá trình trình bày.
+06. Stakeholders & Users
+Giảng viên hướng dẫn: Cung cấp yêu cầu, định hướng, kiểm duyệt chất lượng và nghiệm thu sản phẩm.
+Quản trị viên: Thiết lập hệ thống, quản lý tài khoản và phân quyền người dùng.
+Bộ phận Nhân sự: Quản lý hồ sơ nhân viên và thực hiện các quy trình tuyển dụng.
+Quản lý: Theo dõi báo cáo và đánh giá hiệu suất nhân viên.
+Nhân viên: Chấm công, tra cứu thông tin và phiếu lương, tự đánh giá năng lực.
+Ứng viên: Truy cập cổng tuyển dụng, nộp hồ sơ và theo dõi trạng thái ứng tuyển.
+07. Tổ chức & Nguồn lực
+Quy mô: Đội dự án gồm 5 sinh viên.
+Vai trò và trách nhiệm:
+Quản lý dự án / Phân tích nghiệp vụ (PM/BA): Lập kế hoạch, theo dõi tiến độ và quản lý tài liệu.
+Trưởng nhóm kỹ thuật (Tech Lead): Thiết kế kiến trúc, cơ sở dữ liệu và kiểm tra mã nguồn.
+Lập trình viên Backend (Backend Developer): Phát triển logic nghiệp vụ và API.
+Lập trình viên Frontend (Frontend Developer): Xây dựng giao diện và trải nghiệm người dùng.
+Kiểm thử / Dữ liệu (QA/Data): Xây dựng kịch bản kiểm thử, chuẩn bị dữ liệu giả lập và tích hợp AI.
+Công cụ và hạ tầng: Trao đổi qua Zalo/Discord, họp bằng Google Meet, quản lý công việc trên Trello/Jira và lưu trữ mã nguồn trên GitHub.
+08. Yêu cầu cấp cao
+Quy tắc nghiệp vụ:
+Nhân viên: Chỉ được xem và cập nhật thông tin cá nhân cơ bản; thông tin tiền lương được bảo mật.
+Quản lý: Chỉ được xem và đánh giá nhân viên thuộc phòng ban phụ trách.
+Quản trị viên: Quản lý tài khoản, phân quyền và kỹ thuật, không được can thiệp dữ liệu nghiệp vụ.
+AI: Chỉ đưa ra kết quả đề xuất, quyết định cuối cùng thuộc về người dùng có thẩm quyền.
+Chức năng AI:
+Phân tích CV: Tự động trích xuất thông tin về họ tên, kỹ năng, kinh nghiệm và đánh giá mức độ phù hợp.
+Trợ lý AI: Trả lời các câu hỏi thường gặp về chính sách và quy định nhân sự.
+Tiêu chuẩn hoàn thành: Chức năng phải kết nối đầy đủ với API và cơ sở dữ liệu, phân quyền đúng yêu cầu, hoạt động ổn định, không còn lỗi nghiêm trọng sau kiểm thử và được kiểm tra mã nguồn trước khi hoàn thành.
+09. Quy trình & Giải pháp tổng quan
+Hiện trạng (As-Is): Quy trình nhân sự còn thực hiện thủ công, dữ liệu phân tán và thiếu liên kết giữa các bộ phận.
+Mô hình đề xuất (To-Be): Xây dựng nền tảng Web tập trung, liên kết các nghiệp vụ nhân sự và tổ chức theo các luồng xử lý thống nhất.
+Kịch bản trình diễn:
+Tuyển dụng: HR tạo tin tuyển dụng → Ứng viên nộp CV → AI phân tích và chấm điểm → HR xem xét, duyệt và lên lịch phỏng vấn.
+Nhân viên: Nhân viên chấm công → Tra cứu bảng lương → Hỏi đáp với trợ lý AI.
+Quản lý: Theo dõi nhân sự trong phòng ban → Xem chỉ số hiệu suất → Nhập và đánh giá kết quả nhân viên.
+10. Kế hoạch & Milestones
+Phương pháp phát triển: Dự án tuân thủ lịch trình 10 tuần do bộ môn quy định, kết hợp phát triển theo từng giai đoạn và kiểm soát tiến độ theo các mốc chính.
+Tiến độ và mốc chính:
+Tuần 1–2: Khởi động dự án (M1) và hoàn thiện, chốt yêu cầu (M2).
+Tuần 3–4: Hoàn thiện cơ sở dữ liệu (M3) và cơ chế xác thực, phân quyền (M4).
+Tuần 5–7: Phát triển Core HR và tuyển dụng (M5), chấm công và tính lương (M6).
+Tuần 8–10: Tích hợp AI (M7), kiểm thử hệ thống (M8), bàn giao và trình diễn (M9).
+11. Ngân sách & Chi phí
+Ngân sách: Dự án học thuật, không có ngân sách thương mại.
+Tổng chi phí dự kiến 0 VNĐ.
+Hạ tầng và phần mềm: Ưu tiên sử dụng công cụ, thư viện mã nguồn mở và các nền tảng có gói miễn phí. Hệ thống có thể chạy trên localhost hoặc dịch vụ lưu trữ miễn phí, phù hợp với phạm vi và thời gian của dự án.
+12. Rủi ro, Giả định & Ràng buộc
+Ràng buộc:
+Thời gian: Thực hiện trong 10 tuần theo lịch của bộ môn.
+Nhân lực: 5 sinh viên, kinh nghiệm và kỹ năng không đồng đều.
+Dữ liệu: Bắt buộc sử dụng dữ liệu giả lập, không sử dụng dữ liệu thực tế.
+Giả định:
+Nhóm duy trì đủ 5 thành viên trong suốt dự án.
+Được phép sử dụng Mock API hoặc dữ liệu cục bộ khi dịch vụ bên thứ ba gặp sự cố.
+Rủi ro và phương án ứng phó:
+Xung đột mã nguồn: Thống nhất quy tắc phân nhánh và kiểm soát quá trình gộp mã nguồn.
+AI/API gặp sự cố: Chuẩn bị Mock API hoặc tệp JSON thay thế để đảm bảo chức năng Demo.
+Phạm vi mở rộng: Quản lý dự án kiểm soát yêu cầu và chỉ triển khai các chức năng đã được phê duyệt.
+Lỗi khi trình diễn: Chuẩn bị video Demo quay trước làm phương án dự phòng.
+13. Tiêu chí thành công & Nghiệm thu
+Tiêu chí thành công:
+Sản phẩm: Bản Demo hoạt động ổn định, hoàn thành đúng hạn các chức năng Tier 1 – MVP gồm Core HR, tuyển dụng, chấm công và AI phân tích CV.
+Tài liệu: Hoàn thiện đầy đủ bộ tài liệu quản lý dự án theo yêu cầu.
+Điều kiện nghiệm thu: Dự án được báo cáo và nghiệm thu trực tiếp với Giảng viên hướng dẫn tại các mốc chính: Tuần 3, Tuần 7 và Tuần 10. Hệ thống được nghiệm thu khi các chức năng và tài liệu đáp ứng yêu cầu đã thống nhất.
+14. Phê duyệt & Kết luận
+Quyết định khởi động: Quản lý dự án đại diện nhóm thống nhất phạm vi, yêu cầu và kế hoạch thực hiện với Giảng viên hướng dẫn trước khi bắt đầu triển khai.
+Go / No-Go: Tại Tuần 10, nhóm được xem là Go khi đã hoàn thành và bàn giao đầy đủ mã nguồn, tài liệu dự án, slide thuyết trình và video Demo, đồng thời sẵn sàng trình diễn và bảo vệ sản phẩm.
